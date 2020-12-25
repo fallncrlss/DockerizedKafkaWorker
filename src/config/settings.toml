@@ -1,0 +1,4 @@
+BOOTSTRAP_SERVERS=["localhost:9092"]
+ENCODING='utf-8'
+VAULT_TOPIC='responses'
+API_URL='https://reqres.in/api'
